@@ -11,32 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering and Automation Engineering, University of Science and Technology Beijing, 2012.08-2016.07
+* M.S in Electrical and Computer Engineering, Code Monkey University(CMU), 2018-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016 - Spring 2017: Developing and Testing Engineer
+  * Startup Company: Tanke Technology
+  * Duties included: driver programming and testing for embedded device
+  * Supervisor: Bao Yu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Spring 2018: Research Assistant:    
+  * Chinese Academy of Science, Institute of Automation
+  * Duties included: data analytics on web security scanning data, recommendation system.
+  * Supervisor: Xu Bo
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linux, Git tools, AWS, GCP
+* Familiar with Python, Java
+* Familar with Deep Learnig Tools TF, Pytorch
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
