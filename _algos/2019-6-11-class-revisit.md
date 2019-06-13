@@ -126,3 +126,20 @@ Vector::Vector(Vector&& a)
 }
 
 ```
+if we want to use default copy/move constructor, just use "=default" to th corresponding function, likeliwise, we can use "=delete" to supress the default constructor(or any other functions)
+```C++
+class Y{
+    public:
+      Y(Sometype);
+      Y(const Y&) = default; //use default copy constructor
+      Y(Y&& ) = default //use default move constructor
+     //...
+}
+
+class Shape{
+    public:
+        Shape(const Shape&) = delete; //no copy operations
+        Shgpe& operator=(const Shape&) = delete; 
+        Shape(Shape&&)=delete; //no move opearations
+}
+```

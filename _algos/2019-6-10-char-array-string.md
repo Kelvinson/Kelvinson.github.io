@@ -54,7 +54,7 @@ char* hello3 =  (char*)malloc(sizeof(char) * 6)
 **char[]** can convert to std::string implicitly, std::string can convert to **char[]** with **.c_str()** or **.data()**
 ```C++
 char hello[] = "hello";
-string str_hello = hello; //right
-auto hello1 = str_hello.c_string(); //right
-char* hello2 = str_hello.data(); //right
+string str_hello = hello; //correct, char[] can implicitly converted to string
+auto hello1 = str_hello.c_string(); //correct
+char* hello2 = str_hello.data(); //correct
 ```
