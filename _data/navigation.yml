@@ -5,11 +5,7 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
- 
-    
-  - title: "Miscellaneous"
-    url: /misc/
-        
+         
   - title: "Blog Posts"
     url: /year-archive/
     
@@ -20,5 +16,7 @@ main:
   - title: "Algo&Programming"
     url: /algos/   
     
+  - title: "Miscellaneous"
+    url: /misc/
   # - title: "Guide"
   #   url: /markdown/

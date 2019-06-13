@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering and Automation Engineering, University of Science and Technology Beijing, 2012.08-2016.07
-* M.S in Electrical and Computer Engineering, Code Monkey University(CMU), 2018-2019
+* B.S. in  and Automation Engineering, University of Science and Technology Beijing, 2012.08-2016.07
+* M.S. in Electrical and Computer Engineering, Code Monkey University(CMU), 2018-2019
 
 Work experience
 ======
