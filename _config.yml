@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dong Wang's Site"
 title_separator          : "-"
 name                     : &name "Dong Wang"
-description              : &description "A code newbie"
+description              : &description "Code cat"
 url                      : https://Kelvinson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kelvinson/Kelvinson.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dong Wang"
   avatar           : "profile.png"
-  bio              : "A code newbie who learns from scratch"
+  bio              : "loves to learn new things"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DongWan42101620"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
