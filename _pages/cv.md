@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in  and Automation Engineering, University of Science and Technology Beijing, 2012.08-2016.07
-* M.S. in Electrical and Computer Engineering, Code Monkey University(CMU), 2018-2019
+* M.S. in Electrical and Computer Engineering, Code Monkey University, 2018-2019
 
 Work experience
 ======
@@ -25,6 +25,11 @@ Work experience
   * Chinese Academy of Science, Institute of Automation
   * Duties included: data analytics on web security scanning data, recommendation system.
   * Supervisor: Xu Bo
+  
+*Spring 2020 - current: (Frontend)Software Engineer:
+  * Pearson Vue
+  * Duties included: Web templates for test center
+  * Supervisor: Mike Nistler
   
 Skills
 ======
