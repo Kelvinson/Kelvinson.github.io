@@ -7,7 +7,8 @@ categories:
   - 'programming'
 # collections: algos
 ---
-1420. Build Array Where You Can Find The Maximum Exactly K Comparisons
+ 
+1420 Build Array Where You Can Find The Maximum Exactly K Comparisons
 find how many combs there exist so that 1)n ints 2)every int is leq m. 3)search cost is K(search cost will increase by 1 if current number is larger than maximum)
 
 two ways to solve it:
@@ -81,7 +82,7 @@ class Solution {
 
 
 
-1141.    Number of Ways to Paint N × 3 Grid
+1141    Number of Ways to Paint N × 3 Grid
 
 It's a classical dp problem(according to lee215?). Each new row is only dependent on prev row. 
 For the first row, there can be the following 12 combs: 
@@ -117,7 +118,7 @@ class Solution {
 }
 ```
 
-1416. Restore The Array
+1416 Restore The Array
 
 ```java
 class Solution {
@@ -165,7 +166,7 @@ $abc$:
         2) x == d:  last three digits can be $000-efg$, count is $efg+1$
         3) x > d: no valid digits can be appended, count is 0;
 
-```C++
+```c++
 #include<iostream>
 #include<algorithm>
 #include<vector>

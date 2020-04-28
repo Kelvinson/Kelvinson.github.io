@@ -26,7 +26,7 @@ Work experience
   * Duties included: data analytics on web security scanning data, recommendation system.
   * Supervisor: Xu Bo
   
-*Spring 2020 - current: (Frontend)Software Engineer:
+* Spring 2020 - current: (Frontend)Software Engineer:
   * Pearson Vue
   * Duties included: Web templates for test center
   * Supervisor: Mike Nistler
