@@ -1,7 +1,7 @@
 ---
 title: '4/19 Problems'
 date: 2020-4-19
-permalink: /algos/2020/04/algo/
+permalink: /algos/2020/04/19/daily
 categories: 
   - 'algorithm'
   - 'programming'

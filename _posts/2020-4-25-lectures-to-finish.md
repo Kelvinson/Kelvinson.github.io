@@ -1,7 +1,7 @@
 ---
 title: 'Lectures to finish later'
-date: 2018-02-01
-permalink: /posts/2018/02/jordan-book-list/
+date: 2020-04-23
+permalink: /posts/2020/04/lectures-to-finish
 tags:
   - misc
   - todos

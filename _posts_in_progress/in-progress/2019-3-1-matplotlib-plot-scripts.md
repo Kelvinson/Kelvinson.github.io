@@ -7,7 +7,7 @@ labels: ml, nn
 ---
 
 ### From my classmate:
-Last semester, I happen to team with a ML hD student for course project. He is an awesome guy and has super high work
+Last semester, I happen to team with a ML PhD student for course project. He is an awesome guy and has super high work
 effeciency. He has many ways to implement algorithms and makes it run over night. I accidently got some plot scripts 
 from him. Here is a script to read data from AWS S3 bucket and plot the result with LR 
 ```python
