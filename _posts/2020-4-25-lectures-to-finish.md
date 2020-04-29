@@ -8,7 +8,9 @@ tags:
 ---
 
 Some video lectures on track to finish later, I'll check out occasionally. Hope I will not leave them here for long time.
-
+- [ ] [SystemExpert](https://coursehunter.net/course/osnovy-proektirovaniya-sistem)
+- [ ] [Six System Design Question](https://coursehunter.net/course/6-voprosov-po-proektirovaniyu-sistem)
+- [ ] [System Design Building Block](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [ ] [Advanced Distributed System Design](https://learn.particular.net/courses/take/adsd-online-free/lessons/11460615-introduction-systems-vs-applications)
 - [ ] [Golang + BlockChain](https://www.bilibili.com/video/BV1pf4y1S7Dd?p=237)
 - [ ] [Linux Practice](https://www.bilibili.com/video/BV1uz41187Fr?p=2)
