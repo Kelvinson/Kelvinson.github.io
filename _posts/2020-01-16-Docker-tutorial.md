@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  A short Docker tutorial
-katex: True
+title: 'A short Docker tutorial'
+date: 2020-01-16
+permalink: /posts/2020/01/short-docker-tutorial/
 tags:
   - tools
   - cloud

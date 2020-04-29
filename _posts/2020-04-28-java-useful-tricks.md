@@ -1,3 +1,11 @@
+---
+title: 'Java Handy Resources'
+date: 2020-04-28
+permalink: /posts/2020/04/java-resources/
+tags:
+  - coding
+  - programming
+---
 ### Operator Precedence ###
 I forgot the precedence of Java operators frequently, so I paste it here from Sedgewick's Algo site. 
 <div class="figure">
